@@ -1,0 +1,21 @@
+{
+  "COMMON": "Common",
+  "enter_all_filed": "Please enter all fields.",
+  "something_went_wrong": "Something went wrong.",
+  "login_credential_require": "UserName and password are required.",
+  "user_not_found": "User not found.",
+  "invalid_user_credential": "Invalid user name or password.",
+  "error_occurred": "An error occurred while processing your request.",
+  "user_login": "User login successfully.",
+  "token_not_found": "Token not found.",
+  "token_invalid": "Invalid token",
+  "interpreter_fetch": "Interpreter fetched successfully.",
+  "language_fetch": "Language fetched successfully.",
+  "onDemandCallReqRegistered": "Demand call request processing.",
+  "interpreter_not_found": "Interpreter not available.",
+  "call_already_accepted": "Other interpreter already accepted.",
+  "join_call": "Call join successfully.",
+  "join_leave": "Call leave successfully.",
+  "give_feedback": "Thank you for feedback.",
+  "call_history": "Call history fetch successfully."
+}
